@@ -1,0 +1,2 @@
+# plagiarism_detector_udacity_ndproject
+ Project Plagiarism Detection
